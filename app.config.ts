@@ -2,12 +2,12 @@
 export default defineAppConfig({
   alpine: {
     title: 'The Aetherius Olympiad',
-    description: 'The website for The Aetherius Olympiad',
+    description: 'The website for The Aetherius Olympiad, a competition in mathematics and physics.',
     header: {
       position: 'left',
       logo: {
-        path: '/tap-logo-light.png',
-        pathDark: '/tap-logo-dark.png',
+        path: '/tao-logo-light.png',
+        pathDark: '/tao-logo-dark.png',
         alt: 'logo',
       },
     },
